@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div style="display: inline_block; margin-bottom: 16px;"><br>
+<div style="display: inline_block"><br>
   <img align="center"  height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="40" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
@@ -40,6 +40,8 @@
   <img align="center" height="40" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
 </div>
+
+<br>
 
 [![Olamilekan21](https://github-readme-stats.vercel.app/api/top-langs/?username=olamilekan21&hide=html&layout=compact&theme=dracula)](https://github.com/olamilekan21/)
 
