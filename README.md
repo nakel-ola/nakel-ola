@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nunu Olamilekan</h1>
 <h3 align="center">A passionate Fullstack developer from Nigeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=olamilekan21&label=Profile%20views&color=0e75b6&style=flat" alt="olamilekan21" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nakel-ola&label=Profile%20views&color=0e75b6&style=flat" alt="nakel-ola" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=olamilekan21&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nakel-ola&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 🔭 I’m currently working on **Grocery E commerce website**
@@ -43,6 +43,6 @@
 
 <br>
 
-[![Olamilekan21](https://github-readme-stats.vercel.app/api/top-langs/?username=olamilekan21&hide=html&layout=compact&theme=dracula)](https://github.com/olamilekan21/)
+[![nakel-ola](https://github-readme-stats.vercel.app/api/top-langs/?username=nakel-ola&hide=html&layout=compact&theme=dracula)](https://github.com/nakel-ola/)
 
-[![Olamilekan21](https://github-readme-stats.vercel.app/api?username=olamilekan21&theme=dracula&show_icons=true)](https://github.com/olamilekan21/)
+[![nakel-ola](https://github-readme-stats.vercel.app/api?username=nakel-ola&theme=dracula&show_icons=true)](https://github.com/nakel-ola/)
