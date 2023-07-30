@@ -16,7 +16,6 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[<img src="https://img.shields.io/badge/-Twitter-blue?logo=twitter&logoColor=white"/>](https://twitter.com/nunuolamilekan)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/olamilekanabiola)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=white"/>](https://instagram.com/nakel.ola)
 [<img src="https://img.shields.io/badge/-HackerRank-green?logo=hackerrank&logoColor=white"/>](https://www.hackerrank.com/nunuolamilekan)
