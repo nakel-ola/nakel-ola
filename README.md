@@ -45,7 +45,3 @@
 [![nakel-ola](https://github-readme-stats.vercel.app/api/top-langs/?username=nakel-ola&hide=html&layout=compact&theme=dracula)](https://github.com/nakel-ola/)
 
 [![nakel-ola](https://github-readme-stats.vercel.app/api?username=nakel-ola&theme=dracula&show_icons=true)](https://github.com/nakel-ola/)
-
-[![nakel-ola's GitHub | Languages Over Time](https://stats.quine.sh/nakel-ola/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=nakel-ola)
-
-[![nakel-ola's GitHub | Stats](https://stats.quine.sh/nakel-ola/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=nakel-ola)
