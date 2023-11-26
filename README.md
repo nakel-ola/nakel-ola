@@ -47,4 +47,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nakel-ola&show_icons=true&locale=en" alt="nakel-ola" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nakel-ola&" alt="nakel-ola" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nakel-ola)](https://git.io/streak-stats)
