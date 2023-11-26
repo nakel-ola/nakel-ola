@@ -6,7 +6,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=nakel-ola&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-- 🔭 I’m currently working on **Grocery E commerce website**
+- 🔭 I’m currently working on **DMS**
 
 - 🌱 I’m currently learning **Dart & Flutter**
 
