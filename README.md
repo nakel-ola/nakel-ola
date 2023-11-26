@@ -42,6 +42,9 @@
 
 <br>
 
-[![nakel-ola](https://github-readme-stats.vercel.app/api/top-langs/?username=nakel-ola&hide=html&layout=compact&theme=dracula)](https://github.com/nakel-ola/)
 
-[![nakel-ola](https://github-readme-stats.vercel.app/api?username=nakel-ola&theme=dracula&show_icons=true)](https://github.com/nakel-ola/)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nakel-ola&show_icons=true&locale=en&layout=compact" alt="nakel-ola" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nakel-ola&show_icons=true&locale=en" alt="nakel-ola" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nakel-ola&" alt="nakel-ola" /></p>
