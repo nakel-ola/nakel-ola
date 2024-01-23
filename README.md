@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nakel-ola&label=Profile%20views&color=0e75b6&style=flat" alt="nakel-ola" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nakel-ola&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 - 🔭 I’m currently working on **DMS**
 
 - 💬 Ask me about **react js**
