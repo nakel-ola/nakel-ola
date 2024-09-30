@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/olamilekan-nunu)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=white"/>](https://instagram.com/nakel_ola)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=white"/>](https://instagram.com/nakel_dev)
 [<img src="https://img.shields.io/badge/-HackerRank-green?logo=hackerrank&logoColor=white"/>](https://www.hackerrank.com/nunuolamilekan)
 
 <h3 align="left">Languages and Tools:</h3>
