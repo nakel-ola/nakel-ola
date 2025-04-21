@@ -40,5 +40,3 @@
 # Stats:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nakel-ola&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nakel-ola" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nakel-ola&theme=tokyonight&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="nakel-ola" /></p>
