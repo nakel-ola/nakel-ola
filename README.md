@@ -1,42 +1,51 @@
 <h1 align="center">Hi 👋, I'm Nunu Olamilekan</h1>
-<h3 align="center">A passionate Fullstack developer</h3>
+<h3 align="center">Full-stack developer building web apps, developer tools and desktop apps</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nakel-ola&label=Profile%20views&color=0e75b6&style=flat" alt="nakel-ola" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nakel-ola&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-- 🔭 I’m currently working on **DMS**
+- 💬 Ask me about **React**, **Next.js** and **NestJS**
+- 🌐 Portfolio: **[nakel.vercel.app](https://nakel.vercel.app/)**
+- 📫 Reach me at **[nunuolamilekan@gmail.com](mailto:nunuolamilekan@gmail.com)**
 
-- 💬 Ask me about **react js**
+## Featured projects
 
-- 📫 How to reach me **nunuolamilekan@gmail.com**
+| Project | What it is | Built with |
+| --- | --- | --- |
+| **[Velton](https://www.getvelton.com/)** | "The quiet studio." A free digital audio workstation for Mac, Windows and Linux, now in alpha, with sandboxed plugins, 66 built-in effects and on-device stem separation. Velton Console and Velton Live extend it to live shows. [Download](https://www.getvelton.com/download/) | Rust, Tauri |
+| **[Lacuna](https://github.com/nakel-ola/lacuna)** | A fast, native disk space analyzer for macOS. It scanned 6.2 million files in 32 seconds in testing and ships as a 7 MB download. [Download](https://lacuna.nakel.app/download/) | Rust, Tauri, React, TypeScript |
+| **[Sarosa](https://github.com/nakel-ola/sarosa-releases)** | A free macOS launcher: open apps, search your clipboard, talk to AI and run every coding agent in one window. [Website](https://sarosa.nakel.app) | macOS desktop app |
+| **[pgcache](https://github.com/nakel-ola/pgcache)** | A PostgreSQL cache for Node.js and NestJS, with a Redis-like API on top of UNLOGGED tables. | TypeScript, PostgreSQL, NestJS |
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/olamilekan-nunu)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=white"/>](https://instagram.com/nakel_dev)
-[<img src="https://img.shields.io/badge/-HackerRank-green?logo=hackerrank&logoColor=white"/>](https://www.hackerrank.com/nunuolamilekan)
+[<img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio" />](https://nakel.vercel.app/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />](https://linkedin.com/in/olamilekan-nunu)
+[<img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X" />](https://x.com/nakel_dev)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" />](https://instagram.com/nakel.ola)
+[<img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white" alt="HackerRank" />](https://www.hackerrank.com/nunuolamilekan)
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and tools
 
-<div style="display: inline_block"><br>
-  <img align="center"  height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="40" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" height="40" width="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
-  <img align="center" height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
-  <img align="center" height="40" width="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
-  <img align="center" height="40" width="40" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" height="40" width="40" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg">
-  <img align="center" height="40" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-</div>
+**Languages**
 
-<br>
+<img src="https://skillicons.dev/icons?i=ts,js,rust,dart,html,css" alt="TypeScript, JavaScript, Rust, Dart, HTML, CSS" />
 
-# Stats:
+**Frontend and mobile**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nakel-ola&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nakel-ola" /></p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,tauri,figma" alt="React, Next.js, Tailwind CSS, Flutter, Tauri, Figma" />
+
+**Backend and data**
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,graphql,postgres,mongodb,prisma,supabase,firebase" alt="Node.js, NestJS, GraphQL, PostgreSQL, MongoDB, Prisma, Supabase, Firebase" />
+
+**Testing and hosting**
+
+<img src="https://skillicons.dev/icons?i=jest,vitest,cloudflare" alt="Jest, Vitest, Cloudflare" />
+
+## Stats
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nakel-ola&theme=tokyonight" alt="Repositories per language" />
+</p>
